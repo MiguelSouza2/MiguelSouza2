@@ -8,7 +8,7 @@
 - 📫 How to reach me (linkedin)
 
 
--   ⚡ Fun fact: currently studying on ETEC Registro!
+-   ⚡Currently studying on ETEC Registro!
 
 <!---
 MiguelSouza2/MiguelSouza2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
