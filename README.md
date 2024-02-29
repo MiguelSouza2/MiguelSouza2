@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning JS, PHP and C#!
 
-- 📫 How to reach me <a href="url(www.linkedin.com/in/miguel-souza-3b48a4274)">Linkedin<a>
+- 📫 How to reach me <a href="www.linkedin.com/in/miguel-souza-3b48a4274">Linkedin<a>
 
 
 - ⚡Currently studying on ETEC Registro!
