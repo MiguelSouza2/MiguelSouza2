@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @MiguelSouza2!
 
 
-- 🌱 I’m currently learning JS, PHP and C#!
+- 🌱 I’m currently learning Bootstrap, PHP and C#!
 
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/miguel-souza-3b48a4274)
 
