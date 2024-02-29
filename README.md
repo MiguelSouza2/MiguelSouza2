@@ -7,7 +7,7 @@
 
 - 📫 How to reach me www.linkedin.com/in/miguel-souza-3b48a4274
 
-
+<a href="url(www.linkedin.com/in/miguel-souza-3b48a4274)">
 -   ⚡Currently studying on ETEC Registro!
 
 <!---
