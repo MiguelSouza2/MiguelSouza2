@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning JS, PHP and C#!
 
-- 📫 How to reach me [Linkedin][www.linkedin.com/in/miguel-souza-3b48a4274]
+- 📫 How to reach me [Linkedin](www.linkedin.com/in/miguel-souza-3b48a4274)
 
 
 - ⚡Currently studying on ETEC Registro!
