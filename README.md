@@ -35,3 +35,6 @@
     
 </p>
 </div>
+
+<img src="https://github.com/MiguelSouza2/MiguelSouza2/blob/main/assets/wav.png" style="width:100%;">
+
