@@ -14,6 +14,14 @@
 
 - ⚡ Fun fact **I'm just a dedicated student who loves what I do!**
 
+  <br><br>
+
+
+# ✨ "Code is like humor. When you have to explain it, it’s bad." — *Cory House* ✨
+
+<br>
+
+
 <img src="https://github.com/MiguelSouza2/MiguelSouza2/blob/main/tenor.gif" height="150" align="right">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
