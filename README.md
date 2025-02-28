@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MiguelSouza2</h1>
+<h1 align="center">Hi 👋, I'm Uub</h1>
 <h3 align="center">A passionate front-end and back-end developer from Registro, SP, Brazil</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=miguelsouza2&label=Users%20who%20saw%20this%20profile&labelColor=000000color=00ff59&style=flat" alt="miguelsouza2" /> </p>
