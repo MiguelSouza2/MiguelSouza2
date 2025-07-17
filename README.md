@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Uub</h1>
-<h3 align="center">A passionate front-end and back-end developer from Registro, SP, Brazil</h3>
+<h1 align="center">Hello there ✌️! I'm Miguel Souza!</h1>
+<h3 align="center">I am a front-end and back-end developer from Registro, SP, who loves what I do!</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=miguelsouza2&label=Users%20who%20saw%20this%20profile&labelColor=000000color=00ff59&style=flat" alt="miguelsouza2" /> </p>
 
 
 - 🔭 I’m currently working on [MarioBet](https://github.com/MiguelSouza2/MarioBet.git)
 
-- 🌱 I’m currently learning **PHP, JS, Bootstrap and C#!**
+- 🌱 I’m currently learning **Python, C++  and C#!**
 
 - 💬 Ask me about **HTML, CSS, JS, Bootstrap, Python, PHP and C#!**
 
