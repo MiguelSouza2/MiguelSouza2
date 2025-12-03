@@ -4,13 +4,13 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=miguelsouza2&label=Users%20who%20saw%20this%20profile&labelColor=000000color=00ff59&style=flat" alt="miguelsouza2" /> </p>
 
 
-- 🔭 I’m currently working on [MarioBet](https://github.com/MiguelSouza2/MarioBet.git)
+- 🔭 I’m currently working on [Learning]([#](https://github.com/MiguelSouza2/Learning-Python))
 
 - 🌱 I’m currently learning **Python, C++  and C#!**
 
 - 💬 Ask me about **HTML, CSS, JS, Bootstrap, Python, PHP and C#!**
 
-- 📫 How to reach me **jubscrebis@gmail.com**
+- 📫 How to reach me **MiguelUubDev@gmail.com**
 
 - ⚡ Fun fact **I'm just a dedicated student who loves what I do!**
 
