@@ -4,7 +4,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=miguelsouza2&label=Users%20who%20saw%20this%20profile&labelColor=000000color=00ff59&style=flat" alt="miguelsouza2" /> </p>
 
 
-- 🔭 I’m currently working on [Learning-Python]([#](https://github.com/MiguelSouza2/Learning-Python))
+- 🔭 I’m currently working on [Learning-Python](https://github.com/MiguelSouza2/Learning-Python)
 
 - 🌱 I’m currently learning **Python, C++  and C#!**
 
